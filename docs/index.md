@@ -1,6 +1,6 @@
 
 ```markdown
-*hand_gestures-mouse
+hand_gestures-mouse
 Control Mouse pointer using hand gestures
 
 ABSTRACT
