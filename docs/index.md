@@ -61,4 +61,4 @@ A Webcam Environment Specifications: A clear white background There should be no
 
 ### upadrastaharshavardhan
 
-(https://github.com/upadrastaharshavardhan/hand_gestures-mouse/settings/pages).
+(https://github.com/upadrastaharshavardhan/hand_gestures-mouse.git).
